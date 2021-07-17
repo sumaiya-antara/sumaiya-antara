@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello! This is Sumaiya from Dhaka, Bangladesh. I am a CSE Graduate and currently working as an Information System Audit Executive at Grant Thornton Bangladesh 🔭. 
+Hello! This is Sumaiya from Dhaka, Bangladesh.🔭 I am a CSE Graduate and currently working as an Information System Audit Executive at Grant Thornton Bangladesh. 
 📫You can reach me through my Linkedin account https://www.linkedin.com/in/sumaiyaantara444
 
 <!--
